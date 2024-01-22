@@ -1,5 +1,5 @@
 
-OBJS=src/main.o src/addc.o src/adds.o src/addi.o src/addl.o src/addf.o src/addd.o
+OBJS=src/main.o src/addc.o src/adds.o src/addi.o src/addl.o src/addf.o src/addd.o src/addld.o
 
 .PHONY: all clean
 .SUFFIXES: .c .o

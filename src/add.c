@@ -1,3 +1,4 @@
+#include "add.h"
 
 #ifndef TYPE_T
 #error "you must define TYPE_T when compiling this file"
